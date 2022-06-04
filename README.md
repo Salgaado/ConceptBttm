@@ -1,2 +1,2 @@
 # ConceptBttn
-E-commerce Bttn
+E-commerce Bttm, criei esse buttom pensando para um site, app e-commerce.
